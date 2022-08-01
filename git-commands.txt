@@ -22,7 +22,3 @@ git config --list  - will give you configuration details
 How to remove remote origin
 ----------------------------
 git remote remove origin
-
-How to revert changes
----------------------
-git revert HEAD
