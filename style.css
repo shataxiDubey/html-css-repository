@@ -1,0 +1,7 @@
+*{
+    margin:1rem;
+}
+#h1{
+    color:seagreen;
+    box-shadow: 4px 4px 8px seagreen;
+}
